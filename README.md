@@ -12,7 +12,7 @@ Then we use the game's script to store the data we want to save in the variables
 When everything is stored, execute "SaveManager.Instance.GameDataSending()".
 When loading, after executing "SaveManager.Instance.GameDateReceiving()", the data in "SaveManager" is stored in the game's script.
 
-[Click here for more information] ()
+[Click here for more information] (https://ge-planet.com/en/how-to-save-with-json-files-in-unity-nested-structure-with-list/)
 
 ## Contribution
 
